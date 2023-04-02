@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JDBCforAdvJava.iml" filepath="$PROJECT_DIR$/JDBCforAdvJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj.iml" filepath="$PROJECT_DIR$/proj.iml" />
     </modules>
   </component>
 </project>

@@ -14,7 +14,7 @@ public class Main {
             );
 
             Statement st = conn.createStatement();
-            ResultSet rs = st.executeQuery("select * from user");
+            ResultSet rs = st.executeQuery("select * from serviceman");
 
             int i = 1;
             while (i<100) {
